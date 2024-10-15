@@ -1,0 +1,88 @@
+.text-field {
+    -fx-background-color: FFF0CE;
+    -fx-font-size: 14px;
+
+}
+
+.buttonLogin {
+    -fx-background-color: #0174BE;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-max-width: 300px;
+    -fx-max-height: 50px;
+}
+
+.buttonRegister {
+    -fx-background-color: #0C356A;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-max-width: 300px;
+    -fx-min-width: 300px;
+    -fx-max-height: 50px;
+
+}
+.addPhotoButton {
+    -fx-background-color: #0174BE;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-max-width: 150px;
+    -fx-max-height: 30px;
+
+}
+
+.changePhotoButton {
+    -fx-background-color: #0174BE;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+    -fx-max-width: 150px;
+    -fx-max-height: 30px;
+}
+
+.text-field {
+    -fx-border-color: #0174BE;
+    -fx-border-width: 1px;
+}
+
+.logoutDashboardButton {
+    -fx-background-color: #FFC436;
+    -fx-text-fill: white;
+    -fx-font-size: 14px;
+}
+
+.hyperlink-label:hover {
+    -fx-text-fill: #004080;
+}
+
+.birthday-picker{
+    -fx-min-width: 300px;
+    -fx-max-width: 200px;
+    -fx-max-height: 50px;
+}
+
+.calendar-cell {
+    -fx-background-color: #f0f0f0;
+    -fx-border-color: #d0d0d0;
+    -fx-padding: 5px;
+}
+
+.calendar-cell:hover {
+    -fx-background-color: #e0e0e0;
+}
+
+.label {
+    -fx-font-size: 14px;
+}
+
+.event-pane {
+    -fx-border-color: #0c356a;
+    -fx-border-width: 1;
+}
+
+.event-pane.current-day {
+    -fx-border-color: #0c356a;
+    -fx-border-width: 2;
+}
+
+.custom-photo-box {
+    -fx-margin: 0 0 0 20;
+}
